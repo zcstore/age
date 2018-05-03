@@ -1,0 +1,20 @@
+#errors {
+	color: red;
+	white-space: pre-lline;
+}
+
+#output .tweet .user {
+	font-weight: bold;
+}
+
+.favorites {
+	background-color: cyan; 
+}
+
+.retweets {
+	background-color: purple;
+}
+
+.modal-body {
+	text-align: center;
+}
