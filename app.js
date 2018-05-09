@@ -47,7 +47,7 @@ $(document).ready(function(){
 		// ajax request
 
 		$.ajax({
-			url: "https://api.twitter.com/1.1/search/tweets.json?" + "&q=nasa&result_type=popular"
+			url: "https://api.twitter.com/1.1/search/tweets.json?" + "&q=nasa&result_type=popular",
 			data: {
 				q: search,
 				lang: language,
@@ -70,7 +70,7 @@ $(document).ready(function(){
 					$("#output").append(template);
 				}
 				} catch(ex) {
-					console.error(ex);
+					console.error(ex); 
 					$("#errors").text("An error has occurred");
 				}
 			},
