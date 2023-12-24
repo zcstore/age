@@ -38,11 +38,11 @@ $(document).ready(function(){
 
 		//consumer key and authorization 
 
-		var consumerAPIKey = xxxx;
-		var consumerAPISecret = xxxx;
-		var accessToken = xxxx;
-		var accessTokenSecret = xxxx;
-		var userID = xxxx;
+		var consumerAPIKey = VtCD0uYTi7yDOp8ZApKzrfs2I;
+		var consumerAPISecret = IulvuKyqOEp9nUxg1sXvwzTkDNhi69mvOYvgv4bNmXx50k2ZeD;
+		var accessToken = 1737988216547115008-987lh04lu60gWzZLeIxGsKT2bSpTgG;
+		var accessTokenSecret = PK0AhMaoi55gh1Zv4pLqv0yNBKigMdNKEd4s4PhCInkq6;
+		var userID = 28211625;
 
 		// ajax request
 
